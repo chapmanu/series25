@@ -1,0 +1,2823 @@
+<?xml version="1.0"?>
+<r25:spaces xmlns:r25="http://www.collegenet.com/r25" xmlns:xl="http://www.w3.org/1999/xlink" pubdate="2014-07-23T08:59:33-07:00">
+<r25:space xl:href="space.xml?space_id=486" id="BRJDNDg2" crc="00000024" status="est">
+<r25:space_id>486</r25:space_id>
+<r25:space_name>AF 119 AB</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>205</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:03-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=484" id="BRJDNDg0" crc="00000025" status="est">
+<r25:space_id>484</r25:space_id>
+<r25:space_name>AF 119A</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>100</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-02T12:21:44-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=485" id="BRJDNDg1" crc="00000023" status="est">
+<r25:space_id>485</r25:space_id>
+<r25:space_name>AF 119B</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>100</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:05-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=8" id="AxJDOA==" crc="00000025" status="est">
+<r25:space_id>8</r25:space_id>
+<r25:space_name>AF 1ST FL HALLWAY</r25:space_name>
+<r25:formal_name>AF 1st Floor Hallway</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>25</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-01-11T09:11:00-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=20" id="BBJDMjA=" crc="0000002F" status="est">
+<r25:space_id>20</r25:space_id>
+<r25:space_name>AF 201</r25:space_name>
+<r25:formal_name>Charles and Nora Hester Faculty Senate Boardroom</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>100</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T11:02:20-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=21" id="BBJDMjE=" crc="0000002C" status="est">
+<r25:space_id>21</r25:space_id>
+<r25:space_name>AF 202</r25:space_name>
+<r25:formal_name>William and Georgia Haney Amphitheater</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=1">1</r25:partition_id>
+<r25:partition_name>Argyros Forum</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>90</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-16T10:11:11-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=22" id="BBJDMjI=" crc="00000028" status="est">
+<r25:space_id>22</r25:space_id>
+<r25:space_name>AF 205</r25:space_name>
+<r25:formal_name>Kurt and Alice Bergel Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>25</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-08T11:00:26-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=26" id="BBJDMjY=" crc="00000030" status="est">
+<r25:space_id>26</r25:space_id>
+<r25:space_name>AF 206A</r25:space_name>
+<r25:formal_name>AF 206A</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=38">38</r25:partition_id>
+<r25:partition_name>Seminar Rooms</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-16T10:11:12-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=27" id="BBJDMjc=" crc="0000002C" status="est">
+<r25:space_id>27</r25:space_id>
+<r25:space_name>AF 206B</r25:space_name>
+<r25:formal_name>AF 206B</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=1">1</r25:partition_id>
+<r25:partition_name>Argyros Forum</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-16T10:11:12-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=28" id="BBJDMjg=" crc="0000002E" status="est">
+<r25:space_id>28</r25:space_id>
+<r25:space_name>AF 206C</r25:space_name>
+<r25:formal_name>AF 206C</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=38">38</r25:partition_id>
+<r25:partition_name>Seminar Rooms</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-16T10:11:13-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=23" id="BBJDMjM=" crc="0000002A" status="est">
+<r25:space_id>23</r25:space_id>
+<r25:space_name>AF 207</r25:space_name>
+<r25:formal_name>AF 207</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=1">1</r25:partition_id>
+<r25:partition_name>Argyros Forum</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>48</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:55:45-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=24" id="BBJDMjQ=" crc="0000002B" status="est">
+<r25:space_id>24</r25:space_id>
+<r25:space_name>AF 208</r25:space_name>
+<r25:formal_name>AF 208</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=1">1</r25:partition_id>
+<r25:partition_name>Argyros Forum</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>110</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-16T10:11:13-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=29" id="BBJDMjk=" crc="0000002F" status="est">
+<r25:space_id>29</r25:space_id>
+<r25:space_name>AF 209A</r25:space_name>
+<r25:formal_name>AF 209A</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>100</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T11:02:20-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=391" id="BRJDMzkx" crc="00000026" status="est">
+<r25:space_id>391</r25:space_id>
+<r25:space_name>AF 209AB</r25:space_name>
+<r25:formal_name>AF 209AB</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>150</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-08T11:01:09-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=390" id="BRJDMzkw" crc="00000025" status="est">
+<r25:space_id>390</r25:space_id>
+<r25:space_name>AF 209ABC</r25:space_name>
+<r25:formal_name>AF 209ABC</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>300</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-08T11:01:13-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=30" id="BBJDMzA=" crc="00000030" status="est">
+<r25:space_id>30</r25:space_id>
+<r25:space_name>AF 209B</r25:space_name>
+<r25:formal_name>AF 209B</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T11:02:21-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=392" id="BRJDMzky" crc="00000026" status="est">
+<r25:space_id>392</r25:space_id>
+<r25:space_name>AF 209BC</r25:space_name>
+<r25:formal_name>AF 209BC</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>150</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-08T11:01:25-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=31" id="BBJDMzE=" crc="0000002E" status="est">
+<r25:space_id>31</r25:space_id>
+<r25:space_name>AF 209C</r25:space_name>
+<r25:formal_name>AF 209C</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>100</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T11:02:21-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=25" id="BBJDMjU=" crc="0000002B" status="est">
+<r25:space_id>25</r25:space_id>
+<r25:space_name>AF 211</r25:space_name>
+<r25:formal_name>AF 211</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=1">1</r25:partition_id>
+<r25:partition_name>Argyros Forum</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>48</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:55:48-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=511" id="BRJDNTEx" crc="00000026" status="est">
+<r25:space_id>511</r25:space_id>
+<r25:space_name>AF 212</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>60</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-03-25T14:34:30-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=34" id="BBJDMzQ=" crc="00000024" status="est">
+<r25:space_id>34</r25:space_id>
+<r25:space_name>AF 301</r25:space_name>
+<r25:formal_name>Francis and Elizabeth Griset President's Dining Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>12</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-01-11T09:12:53-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=526" id="BRJDNTI2" crc="00000024" status="est">
+<r25:space_id>526</r25:space_id>
+<r25:space_name>AF 309</r25:space_name>
+<r25:formal_name>Athenaeum Patio</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>200</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-05-16T14:07:30-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=519" id="BRJDNTE5" crc="00000022" status="est">
+<r25:space_id>519</r25:space_id>
+<r25:space_name>AF 310</r25:space_name>
+<r25:formal_name>Faculty Athenaeum</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>210</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-24T09:32:22-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=525" id="BRJDNTI1" crc="00000025" status="est">
+<r25:space_id>525</r25:space_id>
+<r25:space_name>AF 3RD FL SOUTH PATIO</r25:space_name>
+<r25:formal_name>Linebeger Loggia Terrace</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>136</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:45:41-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=487" id="BRJDNDg3" crc="00000023" status="est">
+<r25:space_id>487</r25:space_id>
+<r25:space_name>AF GREAT ROOM</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>517</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:05-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=559" id="BRJDNTU5" crc="00000024" status="est">
+<r25:space_id>559</r25:space_id>
+<r25:space_name>AF GREAT ROOM BOOTH #1</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:05-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=560" id="BRJDNTYw" crc="00000024" status="est">
+<r25:space_id>560</r25:space_id>
+<r25:space_name>AF GREAT ROOM BOOTH #2</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:06-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=561" id="BRJDNTYx" crc="00000023" status="est">
+<r25:space_id>561</r25:space_id>
+<r25:space_name>AF GREAT ROOM CSA</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>N</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:06-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=9" id="AxJDOQ==" crc="00000023" status="est">
+<r25:space_id>9</r25:space_id>
+<r25:space_name>AF LOBBY</r25:space_name>
+<r25:formal_name>Harry and Diane Rinker Atrium</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-01-11T09:13:35-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=250" id="BRJDMjUw" crc="00000021" status="est">
+<r25:space_id>250</r25:space_id>
+<r25:space_name>AF PARKING LOT</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2006-01-03T15:22:45-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=488" id="BRJDNDg4" crc="00000024" status="est">
+<r25:space_id>488</r25:space_id>
+<r25:space_name>AF STUDENT UNION STAGE</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>98</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-04-28T10:18:07-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=195" id="BRJDMTk1" crc="00000024" status="est">
+<r25:space_id>195</r25:space_id>
+<r25:space_name>AF WALKWAY</r25:space_name>
+<r25:formal_name>Sodaro Promenade</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=10">10</r25:partition_id>
+<r25:partition_name>Exterior Areas</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-05T11:51:04-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=309" id="BRJDMzA5" crc="00000025" status="est">
+<r25:space_id>309</r25:space_id>
+<r25:space_name>ARGYROS GLOBAL CITIZEN PLAZA</r25:space_name>
+<r25:formal_name>Argyros Global Citizen Plaza</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:45:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=295" id="BRJDMjk1" crc="00000026" status="est">
+<r25:space_id>295</r25:space_id>
+<r25:space_name>ATTALLAH PIAZZA</r25:space_name>
+<r25:formal_name>Fahmy Attallah, Ph.D. Piazza</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>400</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T11:02:22-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=42" id="BBJDNDI=" crc="00000024" status="est">
+<r25:space_id>42</r25:space_id>
+<r25:space_name>BERT WILLIAMS MALL</r25:space_name>
+<r25:formal_name>Bert Williams Mall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=10">10</r25:partition_id>
+<r25:partition_name>Exterior Areas</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>500</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:45:51-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=37" id="BBJDMzc=" crc="00000023" status="est">
+<r25:space_id>37</r25:space_id>
+<r25:space_name>BH 109</r25:space_name>
+<r25:formal_name>Choral Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=3">3</r25:partition_id>
+<r25:partition_name>Bertea Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>140</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-05-15T15:07:52-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=121" id="BRJDMTIx" crc="0000002D" status="est">
+<r25:space_id>121</r25:space_id>
+<r25:space_name>BK 101</r25:space_name>
+<r25:formal_name>Beckman Maxwell Lecture Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>45</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:19-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=122" id="BRJDMTIy" crc="0000002C" status="est">
+<r25:space_id>122</r25:space_id>
+<r25:space_name>BK 102</r25:space_name>
+<r25:formal_name>Oliphant Lecture Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>45</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:19-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=123" id="BRJDMTIz" crc="0000002B" status="est">
+<r25:space_id>123</r25:space_id>
+<r25:space_name>BK 103</r25:space_name>
+<r25:formal_name>Transamerica Lecture Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:20-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=124" id="BRJDMTI0" crc="00000032" status="est">
+<r25:space_id>124</r25:space_id>
+<r25:space_name>BK 104</r25:space_name>
+<r25:formal_name>Pralle Lecture Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>80</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:20-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=125" id="BRJDMTI1" crc="0000002C" status="est">
+<r25:space_id>125</r25:space_id>
+<r25:space_name>BK 105</r25:space_name>
+<r25:formal_name>Kennedy Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:21-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=126" id="BRJDMTI2" crc="0000002C" status="est">
+<r25:space_id>126</r25:space_id>
+<r25:space_name>BK 106</r25:space_name>
+<r25:formal_name>Allred Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:21-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=127" id="BRJDMTI3" crc="00000030" status="est">
+<r25:space_id>127</r25:space_id>
+<r25:space_name>BK 107</r25:space_name>
+<r25:formal_name>Rinker Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:21-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=128" id="BRJDMTI4" crc="00000027" status="est">
+<r25:space_id>128</r25:space_id>
+<r25:space_name>BK 108</r25:space_name>
+<r25:formal_name>BK 108 Conference Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>14</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:22-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=129" id="BRJDMTI5" crc="00000024" status="est">
+<r25:space_id>129</r25:space_id>
+<r25:space_name>BK 109</r25:space_name>
+<r25:formal_name>BK 109</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>15</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:22-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=133" id="BRJDMTMz" crc="0000002B" status="est">
+<r25:space_id>133</r25:space_id>
+<r25:space_name>BK 202</r25:space_name>
+<r25:formal_name>Buelter Clasroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>24</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:25-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=134" id="BRJDMTM0" crc="0000002D" status="est">
+<r25:space_id>134</r25:space_id>
+<r25:space_name>BK 203</r25:space_name>
+<r25:formal_name>BK 203 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:25-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=135" id="BRJDMTM1" crc="0000002F" status="est">
+<r25:space_id>135</r25:space_id>
+<r25:space_name>BK 204</r25:space_name>
+<r25:formal_name>Merrill Lynch Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:26-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=136" id="BRJDMTM2" crc="00000031" status="est">
+<r25:space_id>136</r25:space_id>
+<r25:space_name>BK 205</r25:space_name>
+<r25:formal_name>Ernst and Young Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:26-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=137" id="BRJDMTM3" crc="00000030" status="est">
+<r25:space_id>137</r25:space_id>
+<r25:space_name>BK 206</r25:space_name>
+<r25:formal_name>BK 206 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:27-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=138" id="BRJDMTM4" crc="0000002F" status="est">
+<r25:space_id>138</r25:space_id>
+<r25:space_name>BK 209</r25:space_name>
+<r25:formal_name>Elliott Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:28-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=375" id="BRJDMzc1" crc="00000030" status="est">
+<r25:space_id>375</r25:space_id>
+<r25:space_name>BK 210</r25:space_name>
+<r25:formal_name>BK 210 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:28-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=376" id="BRJDMzc2" crc="00000030" status="est">
+<r25:space_id>376</r25:space_id>
+<r25:space_name>BK 211</r25:space_name>
+<r25:formal_name>BK 211 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:30-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=377" id="BRJDMzc3" crc="00000030" status="est">
+<r25:space_id>377</r25:space_id>
+<r25:space_name>BK 212</r25:space_name>
+<r25:formal_name>BK 212 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:31-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=145" id="BRJDMTQ1" crc="00000032" status="est">
+<r25:space_id>145</r25:space_id>
+<r25:space_name>BK 213</r25:space_name>
+<r25:formal_name>West Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>34</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:33-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=146" id="BRJDMTQ2" crc="00000030" status="est">
+<r25:space_id>146</r25:space_id>
+<r25:space_name>BK 214</r25:space_name>
+<r25:formal_name>Henley Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=2">2</r25:partition_id>
+<r25:partition_name>Beckman Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:33-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=149" id="BRJDMTQ5" crc="00000024" status="est">
+<r25:space_id>149</r25:space_id>
+<r25:space_name>BK 3RD FL HALLWAYS</r25:space_name>
+<r25:formal_name>BK 3rd Floor Hallways</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:35-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=155" id="BRJDMTU1" crc="00000026" status="est">
+<r25:space_id>155</r25:space_id>
+<r25:space_name>BK 401</r25:space_name>
+<r25:formal_name>Betty Hutton Williams Boardroom</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>58</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:36-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=156" id="BRJDMTU2" crc="0000002B" status="est">
+<r25:space_id>156</r25:space_id>
+<r25:space_name>BK 404</r25:space_name>
+<r25:formal_name>George Bush Conference Center</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>280</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T11:02:22-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=458" id="BRJDNDU4" crc="00000023" status="est">
+<r25:space_id>458</r25:space_id>
+<r25:space_name>BK 404 (EAST WING)</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-07-07T09:36:37-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=356" id="BRJDMzU2" crc="00000023" status="est">
+<r25:space_id>356</r25:space_id>
+<r25:space_name>BP 1104</r25:space_name>
+<r25:formal_name>Baldwin Pavilion 1104 Classroom</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2011-09-15T12:08:38-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=357" id="BRJDMzU3" crc="00000025" status="est">
+<r25:space_id>357</r25:space_id>
+<r25:space_name>BP 1105</r25:space_name>
+<r25:formal_name>Baldwin Pavilion 1105 Athletic Dept. Meeting Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>24</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-01-11T09:19:45-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=358" id="BRJDMzU4" crc="0000002C" status="est">
+<r25:space_id>358</r25:space_id>
+<r25:space_name>BP 1106</r25:space_name>
+<r25:formal_name>Baldwin Pavilion 1106 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=36">36</r25:partition_id>
+<r25:partition_name>Baldwin Pavilion</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>24</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:31-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=367" id="BRJDMzY3" crc="0000002B" status="est">
+<r25:space_id>367</r25:space_id>
+<r25:space_name>BP 1107</r25:space_name>
+<r25:formal_name>Baldwin Pavillion 1107 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=36">36</r25:partition_id>
+<r25:partition_name>Baldwin Pavilion</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>24</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:32-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=589" id="BRJDNTg5" crc="00000021" status="est">
+<r25:space_id>589</r25:space_id>
+<r25:space_name>CASE-MUSCO-THRESHIE PATIO</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-03-14T09:27:41-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=265" id="BRJDMjY1" crc="00000024" status="est">
+<r25:space_id>265</r25:space_id>
+<r25:space_name>CHAPMAN PLAZA</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:47:09-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=187" id="BRJDMTg3" crc="0000002A" status="est">
+<r25:space_id>187</r25:space_id>
+<r25:space_name>DH 101</r25:space_name>
+<r25:formal_name>DH 101 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=9">9</r25:partition_id>
+<r25:partition_name>Demille Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>48</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:36-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=274" id="BRJDMjc0" crc="0000002A" status="est">
+<r25:space_id>274</r25:space_id>
+<r25:space_name>DH 146</r25:space_name>
+<r25:formal_name>DH 146 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=38">38</r25:partition_id>
+<r25:partition_name>Seminar Rooms</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:38-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=190" id="BRJDMTkw" crc="00000029" status="est">
+<r25:space_id>190</r25:space_id>
+<r25:space_name>DH 148</r25:space_name>
+<r25:formal_name>DH 148 Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=9">9</r25:partition_id>
+<r25:partition_name>Demille Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>48</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:40-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=567" id="BRJDNTY3" crc="00000028" status="est">
+<r25:space_id>567</r25:space_id>
+<r25:space_name>DT 002</r25:space_name>
+<r25:formal_name>DT 002</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>36</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:43-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=570" id="BRJDNTcw" crc="00000028" status="est">
+<r25:space_id>570</r25:space_id>
+<r25:space_name>DT 003</r25:space_name>
+<r25:formal_name>DT 003</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>36</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:45-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=571" id="BRJDNTcx" crc="00000028" status="est">
+<r25:space_id>571</r25:space_id>
+<r25:space_name>DT 004</r25:space_name>
+<r25:formal_name>DT 004</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>36</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:47-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=572" id="BRJDNTcy" crc="00000029" status="est">
+<r25:space_id>572</r25:space_id>
+<r25:space_name>DT 005</r25:space_name>
+<r25:formal_name>DT 005</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=38">38</r25:partition_id>
+<r25:partition_name>Seminar Rooms</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>17</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:49-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=573" id="BRJDNTcz" crc="00000029" status="est">
+<r25:space_id>573</r25:space_id>
+<r25:space_name>DT 101</r25:space_name>
+<r25:formal_name>DT 101</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>19</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:51-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=574" id="BRJDNTc0" crc="00000028" status="est">
+<r25:space_id>574</r25:space_id>
+<r25:space_name>DT 102</r25:space_name>
+<r25:formal_name>DT 102</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:53-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=575" id="BRJDNTc1" crc="00000028" status="est">
+<r25:space_id>575</r25:space_id>
+<r25:space_name>DT 103</r25:space_name>
+<r25:formal_name>DT 103</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>36</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:54-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=576" id="BRJDNTc2" crc="00000028" status="est">
+<r25:space_id>576</r25:space_id>
+<r25:space_name>DT 104</r25:space_name>
+<r25:formal_name>DT 104</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:56-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=577" id="BRJDNTc3" crc="00000029" status="est">
+<r25:space_id>577</r25:space_id>
+<r25:space_name>DT 105</r25:space_name>
+<r25:formal_name>DT 105</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=38">38</r25:partition_id>
+<r25:partition_name>Seminar Rooms</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>17</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:56:58-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=613" id="BRJDNjEz" crc="00000021" status="est">
+<r25:space_id>613</r25:space_id>
+<r25:space_name>DT 1ST FLOOR WOMEN'S RESTROOM</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>N</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-03-04T16:31:42-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=578" id="BRJDNTc4" crc="00000028" status="est">
+<r25:space_id>578</r25:space_id>
+<r25:space_name>DT 201</r25:space_name>
+<r25:formal_name>DT 201</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=40">40</r25:partition_id>
+<r25:partition_name>Jim And Lynn Doti Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:00-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=282" id="BRJDMjgy" crc="00000025" status="est">
+<r25:space_id>282</r25:space_id>
+<r25:space_name>ETC 103</r25:space_name>
+<r25:formal_name>ETC Movement Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>30</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-06-21T16:47:32-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=271" id="BRJDMjcx" crc="00000024" status="est">
+<r25:space_id>271</r25:space_id>
+<r25:space_name>FASHIONABLES COURTYARD</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:47:13-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=269" id="BRJDMjY5" crc="00000024" status="est">
+<r25:space_id>269</r25:space_id>
+<r25:space_name>GENTLE SPRINGS</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:47:17-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=50" id="BBJDNTA=" crc="00000022" status="est">
+<r25:space_id>50</r25:space_id>
+<r25:space_name>HC GYM</r25:space_name>
+<r25:formal_name>Large Gymnasium</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=14">14</r25:partition_id>
+<r25:partition_name>Hutton Sports Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>900</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=51" id="BBJDNTE=" crc="00000023" status="est">
+<r25:space_id>51</r25:space_id>
+<r25:space_name>HC GYMA</r25:space_name>
+<r25:formal_name>Small Gymnasium (Gymnastics Room)</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=14">14</r25:partition_id>
+<r25:partition_name>Hutton Sports Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>30</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2011-10-26T16:53:05-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=47" id="BBJDNDc=" crc="00000023" status="est">
+<r25:space_id>47</r25:space_id>
+<r25:space_name>HC STADIUM</r25:space_name>
+<r25:formal_name>Ernie Chapman Stadium</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>1000</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>Registrar1</r25:last_mod_user>
+<r25:last_mod_dt>2012-01-11T09:21:33-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=44" id="BBJDNDQ=" crc="00000024" status="est">
+<r25:space_id>44</r25:space_id>
+<r25:space_name>HC WILSON FIELD</r25:space_name>
+<r25:formal_name>Athletic Field</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=14">14</r25:partition_id>
+<r25:partition_name>Hutton Sports Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>900</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2011-09-14T15:54:42-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=171" id="BRJDMTcx" crc="00000022" status="est">
+<r25:space_id>171</r25:space_id>
+<r25:space_name>HH 143</r25:space_name>
+<r25:formal_name>HH 1st Floor East Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=170" id="BRJDMTcw" crc="00000022" status="est">
+<r25:space_id>170</r25:space_id>
+<r25:space_name>HH 154</r25:space_name>
+<r25:formal_name>HH 1st Floor West Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=169" id="BRJDMTY5" crc="00000022" status="est">
+<r25:space_id>169</r25:space_id>
+<r25:space_name>HH 243</r25:space_name>
+<r25:formal_name>HH 2nd Floor East Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=168" id="BRJDMTY4" crc="00000022" status="est">
+<r25:space_id>168</r25:space_id>
+<r25:space_name>HH 254</r25:space_name>
+<r25:formal_name>HH 2nd Floor West lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=167" id="BRJDMTY3" crc="00000022" status="est">
+<r25:space_id>167</r25:space_id>
+<r25:space_name>HH 343</r25:space_name>
+<r25:formal_name>HH 3rd Floor East Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=166" id="BRJDMTY2" crc="00000022" status="est">
+<r25:space_id>166</r25:space_id>
+<r25:space_name>HH 354</r25:space_name>
+<r25:formal_name>HH 3rd Floor West Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=165" id="BRJDMTY1" crc="00000022" status="est">
+<r25:space_id>165</r25:space_id>
+<r25:space_name>HH 443</r25:space_name>
+<r25:formal_name>HH 4th Floor East Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=164" id="BRJDMTY0" crc="00000022" status="est">
+<r25:space_id>164</r25:space_id>
+<r25:space_name>HH 454</r25:space_name>
+<r25:formal_name>HH 4th Floor West Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>20</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=157" id="BRJDMTU3" crc="00000022" status="est">
+<r25:space_id>157</r25:space_id>
+<r25:space_name>HH 524</r25:space_name>
+<r25:formal_name>HH 524</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>165</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=347" id="BRJDMzQ3" crc="00000022" status="est">
+<r25:space_id>347</r25:space_id>
+<r25:space_name>HH BASKETBALL COURTS</r25:space_name>
+<r25:formal_name>Henley Hall Basketball Courts</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2010-03-18T12:38:27-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=162" id="BRJDMTYy" crc="00000022" status="est">
+<r25:space_id>162</r25:space_id>
+<r25:space_name>HH EAST PATIO</r25:space_name>
+<r25:formal_name>HH East Patio</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>75</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=161" id="BRJDMTYx" crc="00000022" status="est">
+<r25:space_id>161</r25:space_id>
+<r25:space_name>HH GAME ROOM</r25:space_name>
+<r25:formal_name>HH Game Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>100</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=163" id="BRJDMTYz" crc="00000022" status="est">
+<r25:space_id>163</r25:space_id>
+<r25:space_name>HH WEST PATIO</r25:space_name>
+<r25:formal_name>HH West Patio</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>75</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=218" id="BRJDMjE4" crc="00000022" status="est">
+<r25:space_id>218</r25:space_id>
+<r25:space_name>KH 142</r25:space_name>
+<r25:formal_name>KH 142</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>90</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=219" id="BRJDMjE5" crc="00000022" status="est">
+<r25:space_id>219</r25:space_id>
+<r25:space_name>KH 147</r25:space_name>
+<r25:formal_name>KH 147</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>90</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=220" id="BRJDMjIw" crc="00000022" status="est">
+<r25:space_id>220</r25:space_id>
+<r25:space_name>KH 152</r25:space_name>
+<r25:formal_name>KH 152</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>70</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=221" id="BRJDMjIx" crc="00000022" status="est">
+<r25:space_id>221</r25:space_id>
+<r25:space_name>KH 169</r25:space_name>
+<r25:formal_name>Student Lounge</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=217" id="BRJDMjE3" crc="00000022" status="est">
+<r25:space_id>217</r25:space_id>
+<r25:space_name>KH 1ST FLOOR PATIO</r25:space_name>
+<r25:formal_name>KH 1st Floor Patio</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=602" id="BRJDNjAy" crc="00000021" status="est">
+<r25:space_id>602</r25:space_id>
+<r25:space_name>KH 206</r25:space_name>
+<r25:formal_name>KH 206</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>16</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>lawregistrar</r25:last_mod_user>
+<r25:last_mod_dt>2013-08-23T15:19:20-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=607" id="BRJDNjA3" crc="00000021" status="est">
+<r25:space_id>607</r25:space_id>
+<r25:space_name>KH 220</r25:space_name>
+<r25:formal_name>KH 220</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>10</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>lawregistrar</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-07T09:12:11-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=222" id="BRJDMjIy" crc="00000022" status="est">
+<r25:space_id>222</r25:space_id>
+<r25:space_name>KH 233</r25:space_name>
+<r25:formal_name>KH 233</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>16</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=600" id="BRJDNjAw" crc="00000021" status="est">
+<r25:space_id>600</r25:space_id>
+<r25:space_name>KH 236</r25:space_name>
+<r25:formal_name>KH 236</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>lawregistrar</r25:last_mod_user>
+<r25:last_mod_dt>2013-08-23T15:17:20-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=223" id="BRJDMjIz" crc="00000024" status="est">
+<r25:space_id>223</r25:space_id>
+<r25:space_name>KH 237A</r25:space_name>
+<r25:formal_name>Kennedy Hall 237A</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>200</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-08-29T14:27:27-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=224" id="BRJDMjI0" crc="00000024" status="est">
+<r25:space_id>224</r25:space_id>
+<r25:space_name>KH 237B</r25:space_name>
+<r25:formal_name>Kennedy Hall 237B</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>200</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-08-29T14:29:11-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=225" id="BRJDMjI1" crc="00000023" status="est">
+<r25:space_id>225</r25:space_id>
+<r25:space_name>KH 244</r25:space_name>
+<r25:formal_name>Appellate Court Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>75</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-11-02T11:08:09-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=226" id="BRJDMjI2" crc="00000023" status="est">
+<r25:space_id>226</r25:space_id>
+<r25:space_name>KH 255</r25:space_name>
+<r25:formal_name>Wylie A. Aitken Trial Court Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>75</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-11-02T11:04:26-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=531" id="BRJDNTMx" crc="00000023" status="est">
+<r25:space_id>531</r25:space_id>
+<r25:space_name>KH 339</r25:space_name>
+<r25:formal_name>Library Conference Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>17</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-06-13T11:23:19-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=529" id="BRJDNTI5" crc="00000021" status="est">
+<r25:space_id>529</r25:space_id>
+<r25:space_name>KH 350E</r25:space_name>
+<r25:formal_name>LRW Conference Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>15</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2012-05-24T10:35:00-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=348" id="BRJDMzQ4" crc="00000024" status="est">
+<r25:space_id>348</r25:space_id>
+<r25:space_name>KH 363</r25:space_name>
+<r25:formal_name>Dean's Conference Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-11-02T11:15:58-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=296" id="BRJDMjk2" crc="00000022" status="est">
+<r25:space_id>296</r25:space_id>
+<r25:space_name>KH 365</r25:space_name>
+<r25:formal_name>Dean's Suite</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-11-02T11:08:31-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=227" id="BRJDMjI3" crc="00000022" status="est">
+<r25:space_id>227</r25:space_id>
+<r25:space_name>KH 369</r25:space_name>
+<r25:formal_name>KH 369</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>16</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=544" id="BRJDNTQ0" crc="00000023" status="est">
+<r25:space_id>544</r25:space_id>
+<r25:space_name>KH 372</r25:space_name>
+<r25:formal_name>LLM Conference Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>12</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-08-10T11:49:55-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=300" id="BRJDMzAw" crc="00000025" status="est">
+<r25:space_id>300</r25:space_id>
+<r25:space_name>KH 374</r25:space_name>
+<r25:formal_name>KH 374</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-02-04T10:05:12-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=228" id="BRJDMjI4" crc="00000022" status="est">
+<r25:space_id>228</r25:space_id>
+<r25:space_name>KH 378</r25:space_name>
+<r25:formal_name>KH 378</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>48</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=229" id="BRJDMjI5" crc="00000022" status="est">
+<r25:space_id>229</r25:space_id>
+<r25:space_name>KH 379</r25:space_name>
+<r25:formal_name>Roy and Carmelina Doti Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>60</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=552" id="BRJDNTUy" crc="00000021" status="est">
+<r25:space_id>552</r25:space_id>
+<r25:space_name>KH 386</r25:space_name>
+<r25:formal_name>Mediation Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>4</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-08-28T15:56:39-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=553" id="BRJDNTUz" crc="00000021" status="est">
+<r25:space_id>553</r25:space_id>
+<r25:space_name>KH 387</r25:space_name>
+<r25:formal_name>Mediation Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>4</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-08-28T15:57:32-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=425" id="BRJDNDI1" crc="00000021" status="est">
+<r25:space_id>425</r25:space_id>
+<r25:space_name>KH 388</r25:space_name>
+<r25:formal_name>Mediation Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2011-01-19T15:57:32-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=554" id="BRJDNTU0" crc="00000021" status="est">
+<r25:space_id>554</r25:space_id>
+<r25:space_name>KH 389</r25:space_name>
+<r25:formal_name>Mediation Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>4</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-08-28T15:57:46-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=555" id="BRJDNTU1" crc="00000021" status="est">
+<r25:space_id>555</r25:space_id>
+<r25:space_name>KH 390</r25:space_name>
+<r25:formal_name>Mediation Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>4</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-08-28T15:58:15-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=216" id="BRJDMjE2" crc="00000022" status="est">
+<r25:space_id>216</r25:space_id>
+<r25:space_name>KH LOBBY</r25:space_name>
+<r25:formal_name>KH Lobby</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=15">15</r25:partition_id>
+<r25:partition_name>Kennedy Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2005-11-01T07:58:44-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=472" id="BRJDNDcy" crc="00000023" status="est">
+<r25:space_id>472</r25:space_id>
+<r25:space_name>LINDQUIST ARTS ESPLANADE</r25:space_name>
+<r25:formal_name>Linquist Arts Esplanade</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:47:23-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=506" id="BRJDNTA2" crc="00000022" status="est">
+<r25:space_id>506</r25:space_id>
+<r25:space_name>LL 101</r25:space_name>
+<r25:formal_name>Leatherby Libraries Allred Entrada (Lobby)</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:32:24-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=507" id="BRJDNTA3" crc="00000021" status="est">
+<r25:space_id>507</r25:space_id>
+<r25:space_name>LL 104</r25:space_name>
+<r25:formal_name>Leatherby Libraries Rotunda Room 104</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2011-11-11T13:10:34-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=453" id="BRJDNDUz" crc="00000022" status="est">
+<r25:space_id>453</r25:space_id>
+<r25:space_name>LL 201</r25:space_name>
+<r25:formal_name>Leatherby Libraries 2nd Floor Lobby</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:32:55-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=514" id="BRJDNTE0" crc="00000021" status="est">
+<r25:space_id>514</r25:space_id>
+<r25:space_name>LL 203</r25:space_name>
+<r25:formal_name>LL 2nd Floor Alumni Alcove</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:36:21-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=513" id="BRJDNTEz" crc="00000021" status="est">
+<r25:space_id>513</r25:space_id>
+<r25:space_name>LL 204</r25:space_name>
+<r25:formal_name>LL 2nd Floor Rotunda</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:33:30-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=454" id="BRJDNDU0" crc="00000022" status="est">
+<r25:space_id>454</r25:space_id>
+<r25:space_name>LL 205</r25:space_name>
+<r25:formal_name>Henley Reading Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:29:23-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=515" id="BRJDNTE1" crc="00000021" status="est">
+<r25:space_id>515</r25:space_id>
+<r25:space_name>LL 210</r25:space_name>
+<r25:formal_name>Friedman Readin Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:38:09-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=516" id="BRJDNTE2" crc="00000021" status="est">
+<r25:space_id>516</r25:space_id>
+<r25:space_name>LL 216</r25:space_name>
+<r25:formal_name>Town &amp; Gown Alcove</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:39:57-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=473" id="BRJDNDcz" crc="00000022" status="est">
+<r25:space_id>473</r25:space_id>
+<r25:space_name>LL 301</r25:space_name>
+<r25:formal_name>Malloy Performance Portico - 3rd Floor</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:28:52-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=512" id="BRJDNTEy" crc="00000022" status="est">
+<r25:space_id>512</r25:space_id>
+<r25:space_name>LL 304</r25:space_name>
+<r25:formal_name>LL 3rd floor Rotunda</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:30:37-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=517" id="BRJDNTE3" crc="00000022" status="est">
+<r25:space_id>517</r25:space_id>
+<r25:space_name>LL 305</r25:space_name>
+<r25:formal_name>Library Instruction Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>40</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-08T16:03:57-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=518" id="BRJDNTE4" crc="00000021" status="est">
+<r25:space_id>518</r25:space_id>
+<r25:space_name>LL 401</r25:space_name>
+<r25:formal_name>LL 4th Floor Lobby</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:43:15-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=480" id="BRJDNDgw" crc="00000023" status="est">
+<r25:space_id>480</r25:space_id>
+<r25:space_name>LL 403</r25:space_name>
+<r25:formal_name>Fashionables Terrace</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:41:56-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=477" id="BRJDNDc3" crc="00000022" status="est">
+<r25:space_id>477</r25:space_id>
+<r25:space_name>LL 406</r25:space_name>
+<r25:formal_name>Special Collections Lobby</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:42:15-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=478" id="BRJDNDc4" crc="00000022" status="est">
+<r25:space_id>478</r25:space_id>
+<r25:space_name>LL 407</r25:space_name>
+<r25:formal_name>Yamagishi Reading Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:42:30-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=396" id="BRJDMzk2" crc="00000024" status="est">
+<r25:space_id>396</r25:space_id>
+<r25:space_name>LL 408</r25:space_name>
+<r25:formal_name>Hogan Seminar Room</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>8</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:42:41-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=475" id="BRJDNDc1" crc="00000023" status="est">
+<r25:space_id>475</r25:space_id>
+<r25:space_name>LL 420</r25:space_name>
+<r25:formal_name>Leatherby Libraries Meeting Room</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=28">28</r25:partition_id>
+<r25:partition_name>Leatherby Libraries</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-02-23T10:42:52-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=261" id="BRJDMjYx" crc="0000002F" status="est">
+<r25:space_id>261</r25:space_id>
+<r25:space_name>LL B12</r25:space_name>
+<r25:formal_name>Leatherby Libraries Computer Lab</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=33">33</r25:partition_id>
+<r25:partition_name>Computer Labs</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>30</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:02-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=242" id="BRJDMjQy" crc="0000002D" status="est">
+<r25:space_id>242</r25:space_id>
+<r25:space_name>LL B13</r25:space_name>
+<r25:formal_name>Leatherby Libraries Compute Lab</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=33">33</r25:partition_id>
+<r25:partition_name>Computer Labs</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>30</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:04-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=243" id="BRJDMjQz" crc="0000002D" status="est">
+<r25:space_id>243</r25:space_id>
+<r25:space_name>LL B14</r25:space_name>
+<r25:formal_name>Leatherby Libraries Computer Lab</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=33">33</r25:partition_id>
+<r25:partition_name>Computer Labs</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>30</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:05-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=248" id="BRJDMjQ4" crc="0000002D" status="est">
+<r25:space_id>248</r25:space_id>
+<r25:space_name>LL B16</r25:space_name>
+<r25:formal_name>Leatherby Libraries Computer Lab</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=33">33</r25:partition_id>
+<r25:partition_name>Computer Labs</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>25</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:07-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=256" id="BRJDMjU2" crc="0000002D" status="est">
+<r25:space_id>256</r25:space_id>
+<r25:space_name>LL B17</r25:space_name>
+<r25:formal_name>Leatherby Libraries Computer Lab</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=33">33</r25:partition_id>
+<r25:partition_name>Computer Labs</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>25</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:09-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=281" id="BRJDMjgx" crc="0000002C" status="est">
+<r25:space_id>281</r25:space_id>
+<r25:space_name>LL B3</r25:space_name>
+<r25:formal_name>Leatheby Libraries Computer Lab</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=33">33</r25:partition_id>
+<r25:partition_name>Computer Labs</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>27</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:11-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=530" id="BRJDNTMw" crc="00000021" status="est">
+<r25:space_id>530</r25:space_id>
+<r25:space_name>MALL BETWEEN MH &amp; WH</r25:space_name>
+<r25:formal_name>Mall Between Memorial Hall &amp; Wilkinson Hall</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2012-05-30T14:11:38-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=70" id="BBJDNzA=" crc="00000025" status="est">
+<r25:space_id>70</r25:space_id>
+<r25:space_name>MC WALTMAR THEATRE</r25:space_name>
+<r25:formal_name>Waltmar Theatre</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>236</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>N</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-08-27T11:00:40-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=86" id="BBJDODY=" crc="00000026" status="est">
+<r25:space_id>86</r25:space_id>
+<r25:space_name>MH CHAPMAN AUDITORIUM</r25:space_name>
+<r25:formal_name>MH Chapman Auditorium</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>950</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:47:30-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=585" id="BRJDNTg1" crc="00000021" status="est">
+<r25:space_id>585</r25:space_id>
+<r25:space_name>MH PARKING LOT</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-01-28T08:52:12-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=527" id="BRJDNTI3" crc="00000023" status="est">
+<r25:space_id>527</r25:space_id>
+<r25:space_name>OFF CAMPUS</r25:space_name>
+<r25:formal_name>OFF CAMPUS</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>r25admin</r25:last_mod_user>
+<r25:last_mod_dt>2012-06-22T09:02:36-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=239" id="BRJDMjM5" crc="00000024" status="est">
+<r25:space_id>239</r25:space_id>
+<r25:space_name>OH 103</r25:space_name>
+<r25:formal_name>Oliphant Hall Orchestral Recital Hall - Crean Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=29">29</r25:partition_id>
+<r25:partition_name>Oliphant Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>90</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-05-15T15:10:23-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=245" id="BRJDMjQ1" crc="00000027" status="est">
+<r25:space_id>245</r25:space_id>
+<r25:space_name>OH 301</r25:space_name>
+<r25:formal_name>Oliphant Hall Lecture / Recital Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=29">29</r25:partition_id>
+<r25:partition_name>Oliphant Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>50</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-05-15T15:10:28-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=521" id="BRJDNTIx" crc="00000021" status="est">
+<r25:space_id>521</r25:space_id>
+<r25:space_name>PANTHER PAD</r25:space_name>
+<r25:formal_name>Panther Pad</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2012-04-12T15:09:23-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=322" id="BRJDMzIy" crc="00000023" status="est">
+<r25:space_id>322</r25:space_id>
+<r25:space_name>PANTHER PLAZA</r25:space_name>
+<r25:formal_name>Panther Plaza</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-01-23T08:47:35-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=587" id="BRJDNTg3" crc="00000022" status="est">
+<r25:space_id>587</r25:space_id>
+<r25:space_name>RANDALL DINING COMMONS ENTRANCE LOBBY</r25:space_name>
+<r25:formal_name>Sandhu Residence Center Randall Dining Commons Lobby</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-02-05T10:37:10-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=479" id="BRJDNDc5" crc="00000021" status="est">
+<r25:space_id>479</r25:space_id>
+<r25:space_name>RESIDENCE HALLS VOLLEYBALL COURTS</r25:space_name>
+<r25:formal_name>Residence Halls Volleyball Courts</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=13">13</r25:partition_id>
+<r25:partition_name>Henley Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2011-06-01T10:36:51-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=324" id="BRJDMzI0" crc="00000024" status="est">
+<r25:space_id>324</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM A</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room A</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>10</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-18T16:25:05-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=325" id="BRJDMzI1" crc="00000024" status="est">
+<r25:space_id>325</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM B</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room B</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>14</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-18T16:25:10-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=326" id="BRJDMzI2" crc="00000024" status="est">
+<r25:space_id>326</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM C</r25:space_name>
+<r25:formal_name>Sandhu Conference Room C</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>16</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-18T16:25:10-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=316" id="BRJDMzE2" crc="0000002D" status="est">
+<r25:space_id>316</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM D</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room D East</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>200</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-24T10:59:55-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=474" id="BRJDNDc0" crc="00000024" status="est">
+<r25:space_id>474</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM D &amp; D-1</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room D &amp; D-1</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>483</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-10-29T11:26:01-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=329" id="BRJDMzI5" crc="0000002F" status="est">
+<r25:space_id>329</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM D-1</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room D-1 West</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>200</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-06-24T10:59:56-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=317" id="BRJDMzE3" crc="00000024" status="est">
+<r25:space_id>317</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM E</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room E</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>18</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-18T16:25:30-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=327" id="BRJDMzI3" crc="00000024" status="est">
+<r25:space_id>327</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM F</r25:space_name>
+<r25:formal_name>Sandhu Conference Room F</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>8</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-18T16:25:34-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=318" id="BRJDMzE4" crc="00000024" status="est">
+<r25:space_id>318</r25:space_id>
+<r25:space_name>SANDHU CONF. ROOM G</r25:space_name>
+<r25:formal_name>Sandhu Conference Center Room G</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>16</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-11-18T16:25:41-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=528" id="BRJDNTI4" crc="00000021" status="est">
+<r25:space_id>528</r25:space_id>
+<r25:space_name>SANDHU CONFERENCE CENTER 1ST FLOOR LOBBY</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2012-05-22T10:15:49-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=339" id="BRJDMzM5" crc="00000021" status="est">
+<r25:space_id>339</r25:space_id>
+<r25:space_name>SANDHU RESIDENCE CENTER 1ST FLOOR LOBBY</r25:space_name>
+<r25:formal_name>Sandhu Residence Center 1st Floor Lobby</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched2</r25:last_mod_user>
+<r25:last_mod_dt>2009-12-10T12:04:04-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=593" id="BRJDNTkz" crc="00000021" status="est">
+<r25:space_id>593</r25:space_id>
+<r25:space_name>SANDHU RESIDENCE CENTER 1ST FLOOR PATIO</r25:space_name>
+<r25:formal_name>Sandhu Residence Center 1st Floor Patio</r25:formal_name>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>R</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2013-05-16T09:55:11-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=98" id="BBJDOTg=" crc="0000002C" status="est">
+<r25:space_id>98</r25:space_id>
+<r25:space_name>SC 109</r25:space_name>
+<r25:formal_name>Hashinger Science Center Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>44</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:21-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=99" id="BBJDOTk=" crc="0000002B" status="est">
+<r25:space_id>99</r25:space_id>
+<r25:space_name>SC 111</r25:space_name>
+<r25:formal_name>Hashinger Science Center Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>33</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:23-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=100" id="BRJDMTAw" crc="0000002B" status="est">
+<r25:space_id>100</r25:space_id>
+<r25:space_name>SC 127</r25:space_name>
+<r25:formal_name>Hashinger Science Center Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:25-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=298" id="BRJDMjk4" crc="0000002B" status="est">
+<r25:space_id>298</r25:space_id>
+<r25:space_name>SC 131</r25:space_name>
+<r25:formal_name>Hashinger Science Center Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>24</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:26-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=297" id="BRJDMjk3" crc="00000029" status="est">
+<r25:space_id>297</r25:space_id>
+<r25:space_name>SC 131A</r25:space_name>
+<r25:formal_name>Hashinger Science Center Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>36</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:28-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=101" id="BRJDMTAx" crc="0000002E" status="est">
+<r25:space_id>101</r25:space_id>
+<r25:space_name>SC 150</r25:space_name>
+<r25:formal_name>Hashinger Science Center Irvine Lecture Hall</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>187</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:32-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=105" id="BRJDMTA1" crc="0000002B" status="est">
+<r25:space_id>105</r25:space_id>
+<r25:space_name>SC 306</r25:space_name>
+<r25:formal_name>Hashinger Science Center Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=12">12</r25:partition_id>
+<r25:partition_name>Hashinger Science Center</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>29</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:33-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=462" id="BRJDNDYy" crc="00000026" status="est">
+<r25:space_id>462</r25:space_id>
+<r25:space_name>SH 204</r25:space_name>
+<r25:formal_name>Smith Hall Room 204 - Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=23">23</r25:partition_id>
+<r25:partition_name>Smith Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>36</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:45-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=463" id="BRJDNDYz" crc="00000026" status="est">
+<r25:space_id>463</r25:space_id>
+<r25:space_name>SH 215</r25:space_name>
+<r25:formal_name>Smith Hall 215 Room 215 - Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=23">23</r25:partition_id>
+<r25:partition_name>Smith Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>32</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:46-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=249" id="BRJDMjQ5" crc="00000023" status="est">
+<r25:space_id>249</r25:space_id>
+<r25:space_name>WALLACE ALL FAITHS CHAPEL</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>200</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-02-13T10:18:19-08:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=93" id="BBJDOTM=" crc="0000002C" status="est">
+<r25:space_id>93</r25:space_id>
+<r25:space_name>WH 210</r25:space_name>
+<r25:formal_name>Wilkinson Hall Shirley and Bill Estes Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=25">25</r25:partition_id>
+<r25:partition_name>Wilkinson Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>29</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:54-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=95" id="BBJDOTU=" crc="00000029" status="est">
+<r25:space_id>95</r25:space_id>
+<r25:space_name>WH 221</r25:space_name>
+<r25:formal_name>Wilkinson Hall Classroom</r25:formal_name>
+<r25:partition_id xl:href="rmpart.xml?partition_id=25">25</r25:partition_id>
+<r25:partition_name>Wilkinson Hall</r25:partition_name>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>30</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>F</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2014-05-16T10:57:56-07:00</r25:last_mod_dt>
+</r25:space>
+<r25:space xl:href="space.xml?space_id=267" id="BRJDMjY3" crc="00000021" status="est">
+<r25:space_id>267</r25:space_id>
+<r25:space_name>WILKINSON CHAPEL</r25:space_name>
+<r25:formal_name/>
+<r25:partition_id/>
+<r25:partition_name/>
+<r25:favorite>F</r25:favorite>
+<r25:max_capacity>0</r25:max_capacity>
+<r25:fill_ratio/>
+<r25:schedule_perm>N</r25:schedule_perm>
+<r25:edit_perm>R</r25:edit_perm>
+<r25:assign_perm>N</r25:assign_perm>
+<r25:last_mod_user>sched1</r25:last_mod_user>
+<r25:last_mod_dt>2006-06-22T14:39:38-07:00</r25:last_mod_dt>
+</r25:space>
+</r25:spaces>
