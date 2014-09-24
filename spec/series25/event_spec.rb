@@ -1,10 +1,10 @@
 require 'spec_helper'
 
+# @note Chapman University uses custom_attributes_ids as follows:
+# 	12 is contact_name, 13 is contact_phone, 14 is contact_email
+
 describe Series25::Event do
-	subject(:event) { Series25::Event.new(event_xml) }
-	it 'tests things' do
-		puts event
-	end
+	subject(:event) { Series25::Event.new(single_event_xml) }
 
 	it 'assigns to variable event_id'          do; expect(event.event_id)           .to_not eq(nil); end
 	it 'assigns to variable event_name'        do; expect(event.event_name)         .to_not eq(nil); end
@@ -36,4 +36,24 @@ describe Series25::Event do
 	it 'assigns to variable event_histories'   do; expect(event.event_histories)    .to_not eq(nil); end
 	it 'assigns to variable custom_attributes' do; expect(event.custom_attributes)  .to_not eq(nil); end
 	it 'assigns to variable approvals'         do; expect(event.approvals)          .to_not eq(nil); end
+
+	describe '#has_recurrences?' do
+		context 'with multiple reservations' do
+			it 'returns true' do
+				expect(Series25::Event.new(recurring_event_xml).has_recurrences?).to eq(true)
+			end
+		end
+
+		context 'with one reservation' do
+			it 'returns false' do
+				expect(Series25::Event.new(single_event_xml).has_recurrences?).to eq(false)
+			end
+		end
+
+		context 'with no reservations' do
+			it 'returns false' do
+				expect(Series25::Event.new(no_reservations_event_xml).has_recurrences?).to eq(false)
+			end
+		end
+	end
 end

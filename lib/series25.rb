@@ -10,10 +10,11 @@ require 'ext/string'
 require 'ext/symbol'
 
 # Classes
+require 'series25/base'
+
 require 'series25/ad_hoc_datelist.rb'
 require 'series25/approval'
 require 'series25/approval_contact'
-require 'series25/base'
 require 'series25/category'
 require 'series25/client'
 require 'series25/contact.rb'

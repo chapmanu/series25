@@ -8,7 +8,7 @@ module Series25
 
 		# This initializer is used on every type of Series25 object.
 		# It simply creates an instance variable using the name and
-		# value of the XML node if the name of the node is not a 
+		# value of the XML node if the name of the node is not a
 		# class in the Series25 module.  If it is a class in this module
 		# and has children nodes, it creates an array of those objects.
 		#
@@ -17,7 +17,7 @@ module Series25
 		def initialize(xml)
 			xml.children.each do |child|
 				if child.name.series25_object?
-					push_into_or_create_attribute(child.name.plural, child.name.to_class.new(child))
+					push_into_or_create_attribute(child.name.s25_pluralize, child.name.to_s25_class.new(child))
 				else
 					create_attribute(child.name, child.text)
 				end
@@ -34,7 +34,7 @@ module Series25
 			send("#{new_attribute}=", value)
 		end
 
-		# Adds a pluralized array attribute to the class if the 
+		# Adds a pluralized array attribute to the class if the
 		# attribute doesn't exists yet.  Otherwise, it pushes value param
 		# onto the existing array.
 		#
@@ -47,6 +47,10 @@ module Series25
 			else
 				create_attribute("#{attribute}", [value])
 			end
+		end
+
+		def method_missing(method, *args, &block)
+			method.to_s.s25_singularize.series25_object? ? [] : super
 		end
 	end
 end

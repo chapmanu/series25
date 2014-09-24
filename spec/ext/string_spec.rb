@@ -1,12 +1,12 @@
 require 'spec_helper'
 
 describe String do
-	describe '#plural' do
+	describe '#s25_pluralize' do
 		it 'pluralizes special words' do
-			expect('event'.plural).to eq('events')
-			expect('category'.plural).to eq('categories')
-			expect('idiot'.plural).to eq('idiots')
-			expect('event_history'.plural).to eq('event_histories')
+			expect('event'.s25_pluralize).to eq('events')
+			expect('category'.s25_pluralize).to eq('categories')
+			expect('idiot'.s25_pluralize).to eq('idiots')
+			expect('event_history'.s25_pluralize).to eq('event_histories')
 		end
 	end
 
@@ -27,11 +27,20 @@ describe String do
 		end
 	end
 
-	describe '#to_class' do
+	describe '#to_s25_class' do
 		it 'creates a class constant from a string' do
-			expect('event'.to_class).to eq(Series25::Event)
-			expect('Category'.to_class).to eq(Series25::Category)
-			expect('takedown_profile'.to_class).to eq(Series25::TakedownProfile)
+			expect('event'.to_s25_class).to eq(Series25::Event)
+			expect('Category'.to_s25_class).to eq(Series25::Category)
+			expect('takedown_profile'.to_s25_class).to eq(Series25::TakedownProfile)
+		end
+	end
+
+	describe '#s25_singularize' do
+		it 'singularizes properly' do
+			expect('events'.s25_singularize).to eq('event')
+			expect('categories'.s25_singularize).to eq('category')
+			expect('idiots'.s25_singularize).to eq('idiot')
+			expect('event_histories'.s25_singularize).to eq('event_history')
 		end
 	end
 end

@@ -1,11 +1,20 @@
 String.class_eval do
-	
+
 	# A very simple pluralize method that only works on
 	# Series25 objects.
 	#
 	# @return [String] the plural of the string
-	def plural
+	def s25_pluralize
 		Series25::SPECIAL_PLURALS[self] ? Series25::SPECIAL_PLURALS[self] : self+'s'
+	end
+
+	# A very simple singularize method that only works on
+	# Series25 objects
+	#
+	# @return[String] the singular of the string
+	def s25_singularize
+		reverse_plurals = Series25::SPECIAL_PLURALS.invert
+		reverse_plurals[self] ? reverse_plurals[self] : self[0...-1]
 	end
 
 	# Checks to see if an underscored string is a series25 object.
@@ -18,7 +27,7 @@ String.class_eval do
 	# Creates a class constant from a string
 	#
 	# @return [Constant]
-	def to_class
+	def to_s25_class
 		string = "series25/#{self}"
 		string = string.sub(/^[a-z\d]*/) { $&.capitalize }
 		string.gsub!(/(?:_|(\/))([a-z\d]*)/i) { "#{$1}#{$2.capitalize}" }

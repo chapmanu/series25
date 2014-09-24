@@ -1,6 +1,6 @@
 # Series25
 
-TODO: Write a gem description
+A Ruby client wrapper for CollegeNet's Series25 web services API.
 
 ## Installation
 
@@ -15,10 +15,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install series25
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
