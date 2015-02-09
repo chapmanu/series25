@@ -128,7 +128,7 @@ Post-event time 01 hour.</r25:profile_description>
 <r25:event_text status="est">
 <r25:text_type_id>1</r25:text_type_id>
 <r25:text_type_name>Description</r25:text_type_name>
-<r25:text>&lt;strong&gt;&lt;/strong&gt;50 Year Club Memorial Service&lt;br /&gt;&lt;p&gt;&lt;em&gt;Honor the memory of classmates who are no longer with us at this celebration of life.&lt;/em&gt;&lt;/p&gt;</r25:text>
+<r25:text><strong></strong>50 Year Club Memorial Service<br /><p><em>Honor the memory of classmates who are no longer with us at this celebration of life</em></p></r25:text>
 </r25:event_text>
 <r25:event_text status="est">
 <r25:text_type_id>2</r25:text_type_id>

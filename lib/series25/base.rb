@@ -16,10 +16,12 @@ module Series25
 		# @return [Series25::Base] or a derived class
 		def initialize(xml)
 			xml.children.each do |child|
+				next if child.text? # Don't worry about text nodes
+
 				if child.name.series25_object?
 					push_into_or_create_attribute(child.name.s25_pluralize, child.name.to_s25_class.new(child))
 				else
-					create_attribute(child.name, child.text)
+					create_attribute(child.name, child.inner_html)
 				end
 			end
 		end

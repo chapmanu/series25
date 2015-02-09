@@ -1,5 +1,5 @@
 require 'bundler/setup'
-
+require 'pry'
 require 'series25'
 
 SPEC_ROOT = File.dirname(__FILE__)
