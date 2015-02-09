@@ -64,4 +64,28 @@ describe Series25::Event do
 			end
 		end
 	end
+
+	describe '#event_text' do
+		it 'returns the description (id = 1)' do
+			expect(event.event_text(1)).to be_a(Series25::EventText)
+		end
+
+		it 'cant find the id' do
+			expect(event.event_text(400)).to eq(nil)
+		end
+	end
+
+	describe '#event_text_text' do
+		it 'returns the description #1' do
+			expect(event.event_text_text(1)).to eq("<strong></strong>50 Year Club Memorial Service<br><p><em>Honor the memory of classmates who are no longer with us at this celebration of life</em></p>")
+		end
+
+		it 'returns the event note' do
+			expect(event.event_text_text(2)).to eq("One Goose neck mic on lectern for speaking\nChapel table down in front of dais\nChapel lectern down in front of dais\nOne 6' table out for placement by chapel staff")
+		end
+
+		it 'cant find the id' do
+			expect(event.event_text_text(400)).to eq(nil)
+		end
+	end
 end
