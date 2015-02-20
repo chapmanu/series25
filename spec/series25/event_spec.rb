@@ -88,4 +88,12 @@ describe Series25::Event do
 			expect(event.event_text_text(400)).to eq(nil)
 		end
 	end
+
+	describe '#requirements' do
+		it 'returns an array or requirements' do
+			event = Series25::Event.new(event_with_requirements_xml)
+			expect(event.requirements).to include(Series25::Requirement)
+			expect(event.requirements.size).to eq(6)
+		end
+	end
 end

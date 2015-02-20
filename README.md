@@ -50,7 +50,7 @@ You can then query event objects like so.
 
 #### Adding a Series25 Class
 
-Just add the class to the /lib/series25 folder and make sure that it's name can easily be plualized (adding one 's').  If it is not that simple, add it to the /lib/series25/special_plurals.rb file.
+Just add the class to the /lib/series25 folder and make sure that it's name can easily be plualized (adding one 's').  If it is not that simple, add it to the /lib/series25/special_plurals.rb file.  Also, don't forget to require it in lib/series25.rb
 
 
 #### Pull Requests

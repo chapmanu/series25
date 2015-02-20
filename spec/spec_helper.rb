@@ -17,3 +17,7 @@ end
 def no_reservations_event_xml
   Nokogiri::XML(File.read(File.join(SAMPLES, 'no_reservations_event.xml'))).xpath('.//r25:events/r25:event')
 end
+
+def event_with_requirements_xml
+  Nokogiri::XML(File.read(File.join(SAMPLES, 'event_with_requirements.xml'))).xpath('.//r25:events/r25:event')
+end
