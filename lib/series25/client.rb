@@ -50,6 +50,12 @@ module Series25
 			parsed_xml.map{|xml| Space.new(xml) }
 		end
 
+		def space(query_params = {})
+			string_data = get('space.xml', query_params).body
+			parsed_xml = Nokogiri::XML(string_data).xpath('.//r25:spaces/r25:space')
+			Space.new(parsed_xml)
+		end
+
 		# Perform a get request
 		# 
 		# @param path [string]
