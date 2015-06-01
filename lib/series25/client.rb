@@ -32,12 +32,22 @@ module Series25
 		# Get a listing of events
 		#
 		# @param query_params [Hash] the standard Webservices query params
-		# @return [Series25::Events]
+		# @return [Array<Series25::Event>]
 		def events(query_params = {})
 			string_data = get('events.xml', query_params).body
 			parsed_xml  = Nokogiri::XML(string_data).xpath('.//r25:events')
 			events_list = Events.new(parsed_xml)
 			events_list.respond_to?(:events) ? events_list.events : []
+		end
+
+		# Get a listing of spaces
+		#
+		# @param query_params [Hash] the standard Webservices query params
+		# @return [Array<Series25::Space>]
+		def spaces(query_params = {})
+			string_data = get('spaces.xml', query_params).body
+			parsed_xml  = Nokogiri::XML(string_data).xpath('.//r25:spaces/r25:space')
+			parsed_xml.map{|xml| Space.new(xml) }
 		end
 
 		# Perform a get request
