@@ -73,7 +73,7 @@ module Series25
 			@connection ||= Faraday.new(url: base_url, ssl: {verify: false}) do |f|
 				f.basic_auth user, password
 				f.request :url_encoded
-				f.adapter Faraday.default_adapter
+				f.adapter :net_http_persistent
 			end
 		end
 
