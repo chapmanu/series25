@@ -1,7 +1,7 @@
 # Dependencies
 require 'nokogiri'
 require 'faraday'
-require 'net-http-persistent'
+require 'net/http/persistent'
 
 # Constants
 require 'series25/special_plurals'
