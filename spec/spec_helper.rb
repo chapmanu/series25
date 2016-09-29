@@ -14,6 +14,10 @@ def recurring_event_xml
   Nokogiri::XML(File.read(File.join(SAMPLES, 'recurring_event.xml'))).xpath('.//r25:events/r25:event')
 end
 
+def recurring_event_with_exclusions_xml
+  Nokogiri::XML(File.read(File.join(SAMPLES, 'recurring_event_with_exclusions.xml'))).xpath('.//r25:events/r25:event')
+end
+
 def no_reservations_event_xml
   Nokogiri::XML(File.read(File.join(SAMPLES, 'no_reservations_event.xml'))).xpath('.//r25:events/r25:event')
 end
