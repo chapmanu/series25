@@ -50,6 +50,10 @@ describe Series25::Event do
 			it 'returns true' do
 				expect(Series25::Event.new(recurring_event_xml).has_recurrences?).to eq(true)
 			end
+
+			it 'removes excluded occurrences' do
+				expect(Series25::Event.new(recurring_event_with_exclusions_xml).active_reservations.length).to eq(2)
+			end
 		end
 
 		context 'with one reservation' do
