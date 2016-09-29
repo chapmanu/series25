@@ -82,7 +82,7 @@
             </r25:ad_hoc_datelist>
             <r25:reservation xl:href="reservation.xml?rsrv_id=1816818" id="CRJDMTgxNjgxOA==" crc="00000021" status="est">
                 <r25:reservation_id>1816818</r25:reservation_id>
-                <r25:reservation_state>1</r25:reservation_state>
+                <r25:reservation_state>99</r25:reservation_state>
                 <r25:reservation_start_dt>2014-09-19T11:00:00-07:00</r25:reservation_start_dt>
                 <r25:reservation_end_dt>2014-09-19T16:00:00-07:00</r25:reservation_end_dt>
                 <r25:event_start_dt>2014-09-19T12:00:00-07:00</r25:event_start_dt>
@@ -92,53 +92,6 @@
                 <r25:rsrv_comment_id/>
                 <r25:rsrv_comments/>
                 <r25:attendee_count/>
-                <r25:space_reservation id="BSJDMTI0CRJDMTgxNjgxOA==" crc="00000021" status="est">
-                    <r25:space_id>124</r25:space_id>
-                    <r25:space xl:href="space.xml?space_id=124" id="BRJDMTI0" crc="00000032" status="est">
-                        <r25:space_name>BK 104</r25:space_name>
-                        <r25:formal_name>Pralle Lecture Hall</r25:formal_name>
-                        <r25:max_capacity>80</r25:max_capacity>
-                        <r25:partition_name>Beckman Hall</r25:partition_name>
-                    </r25:space>
-                    <r25:layout_id>16</r25:layout_id>
-                    <r25:layout_name>Classroom Tiered, Fixed Tables</r25:layout_name>
-                    <r25:share>F</r25:share>
-                    <r25:attendance>35</r25:attendance>
-                    <r25:space_instructions/>
-                    <r25:rating>22</r25:rating>
-                </r25:space_reservation>
-                <r25:resource_reservation id="AyJDOQkSQzE4MTY4MTg=" crc="00000021" status="est">
-                    <r25:resource_id>9</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=9">
-                        <r25:resource_name>Refreshments</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
-                <r25:resource_reservation id="BCJDMjYJEkMxODE2ODE4" crc="00000021" status="est">
-                    <r25:resource_id>26</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=26">
-                        <r25:resource_name>Trash Containers</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
-                <r25:resource_reservation id="BCJDMjkJEkMxODE2ODE4" crc="00000021" status="est">
-                    <r25:resource_id>29</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=29">
-                        <r25:resource_name>8' Tables</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
-                <r25:resource_reservation id="BCJDMzkJEkMxODE2ODE4" crc="00000021" status="est">
-                    <r25:resource_id>39</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=39">
-                        <r25:resource_name>Recycling Containers</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
             </r25:reservation>
             <r25:reservation xl:href="reservation.xml?rsrv_id=1816819" id="CRJDMTgxNjgxOQ==" crc="00000021" status="est">
                 <r25:reservation_id>1816819</r25:reservation_id>
@@ -202,7 +155,7 @@
             </r25:reservation>
             <r25:reservation xl:href="reservation.xml?rsrv_id=1816820" id="CRJDMTgxNjgyMA==" crc="00000021" status="est">
                 <r25:reservation_id>1816820</r25:reservation_id>
-                <r25:reservation_state>1</r25:reservation_state>
+                <r25:reservation_state>99</r25:reservation_state>
                 <r25:reservation_start_dt>2014-11-14T11:00:00-08:00</r25:reservation_start_dt>
                 <r25:reservation_end_dt>2014-11-14T16:00:00-08:00</r25:reservation_end_dt>
                 <r25:event_start_dt>2014-11-14T12:00:00-08:00</r25:event_start_dt>
@@ -212,53 +165,6 @@
                 <r25:rsrv_comment_id/>
                 <r25:rsrv_comments/>
                 <r25:attendee_count/>
-                <r25:space_reservation id="BSJDMTI0CRJDMTgxNjgyMA==" crc="00000021" status="est">
-                    <r25:space_id>124</r25:space_id>
-                    <r25:space xl:href="space.xml?space_id=124" id="BRJDMTI0" crc="00000032" status="est">
-                        <r25:space_name>BK 104</r25:space_name>
-                        <r25:formal_name>Pralle Lecture Hall</r25:formal_name>
-                        <r25:max_capacity>80</r25:max_capacity>
-                        <r25:partition_name>Beckman Hall</r25:partition_name>
-                    </r25:space>
-                    <r25:layout_id>16</r25:layout_id>
-                    <r25:layout_name>Classroom Tiered, Fixed Tables</r25:layout_name>
-                    <r25:share>F</r25:share>
-                    <r25:attendance>35</r25:attendance>
-                    <r25:space_instructions/>
-                    <r25:rating>22</r25:rating>
-                </r25:space_reservation>
-                <r25:resource_reservation id="AyJDOQkSQzE4MTY4MjA=" crc="00000021" status="est">
-                    <r25:resource_id>9</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=9">
-                        <r25:resource_name>Refreshments</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
-                <r25:resource_reservation id="BCJDMjYJEkMxODE2ODIw" crc="00000021" status="est">
-                    <r25:resource_id>26</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=26">
-                        <r25:resource_name>Trash Containers</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
-                <r25:resource_reservation id="BCJDMjkJEkMxODE2ODIw" crc="00000021" status="est">
-                    <r25:resource_id>29</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=29">
-                        <r25:resource_name>8' Tables</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
-                <r25:resource_reservation id="BCJDMzkJEkMxODE2ODIw" crc="00000021" status="est">
-                    <r25:resource_id>39</r25:resource_id>
-                    <r25:resource xl:href="resource.xml?resource_id=39">
-                        <r25:resource_name>Recycling Containers</r25:resource_name>
-                    </r25:resource>
-                    <r25:quantity>1</r25:quantity>
-                    <r25:resource_instructions/>
-                </r25:resource_reservation>
             </r25:reservation>
             <r25:reservation xl:href="reservation.xml?rsrv_id=1816821" id="CRJDMTgxNjgyMQ==" crc="00000021" status="est">
                 <r25:reservation_id>1816821</r25:reservation_id>
