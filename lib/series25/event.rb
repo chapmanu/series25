@@ -8,6 +8,13 @@ module Series25
       profiles && profiles[0] && profiles[0].reservations && profiles[0].reservations.length > 1
     end
 
+    # Returns the active reservations in a recurring event
+    #
+    # @return [Array]
+    def active_reservations
+      profiles[0].reservations.delete_if { |res| res.reservation_state == '99' }
+    end
+
     # Finds custom_attribute by id
     #
     # @param id [String]
