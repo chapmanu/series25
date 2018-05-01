@@ -24,8 +24,9 @@ module Series25
 		# @param query_params [Hash] the standard Webservices query params
 		# @return [Series25::Event]
 		def event(query_params = {})
+			p 'hello world from series25'
 			string_data = get('event.xml', query_params).body
-			parsed_xml  = Nokogiri::XML(string_data).xpath('')
+			parsed_xml  = Nokogiri::XML(string_data).xpath('.//r25:events')
 			Event.new(parsed_xml)
 		end
 
