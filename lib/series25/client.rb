@@ -25,7 +25,7 @@ module Series25
 		# @return [Series25::Event]
 		def event(query_params = {})
 			string_data = get('event.xml', query_params).body
-			parsed_xml  = Nokogiri::XML(string_data).xpath('.//r25:events/r25:event')
+			parsed_xml  = Nokogiri::XML(string_data).xpath('')
 			Event.new(parsed_xml)
 		end
 
